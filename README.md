@@ -25,3 +25,14 @@ To install and run the aqpplication locally
 ```bash
     npm run dev
 ```
+
+## Links
+- Smart Contract: https://goerli.etherscan.io/address/0xa1bf4e097af4ff0d2a1190d5dd408e77a13bb409
+
+- Frontend: https://buy-me-coffee-blue.vercel.app/
+
+## Tools
+- Next.js
+- Solidity
+- Hardhat
+- Ethers.js
